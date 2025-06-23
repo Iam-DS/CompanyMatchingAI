@@ -54,6 +54,7 @@ Diese Stufen kannst du auch farblich abbilden (z. B. von **Rot** zu **Dunkelgr
 
 - **Firma A:** KI-Dienstleister / Technologietransferpartner  
 - **Firma B:** Unternehmensberatung mit Schwerpunkt Qualitätsmanagement
+- **Grund :** Warum?
 
 ---
 
